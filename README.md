@@ -1,7 +1,7 @@
 accounts-linkedin
 ============================
 
-A meteor package for LinkedIn's OAuth flow.
+A meteor package for LinkedIn's OAuth flow with needed scopes
 
 ### Important
 BREAKING CHANGE LinkedIn -> Linkedin inside code
